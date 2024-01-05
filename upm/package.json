@@ -1,0 +1,11 @@
+{
+  "name": "snk.framework.dependency-injection",
+  "displayName": "Snk DependencyInjection",
+  "version": "1.0.2",
+  "description": "适用于c#的DI注入框架。",
+  "unity": "2020.3",
+  "author": "ClaineLe",
+  "_upm": {
+    "changelog": "### Changed\n- 自注册ISnkServiceProvider"
+  }
+}
